@@ -7,3 +7,6 @@ Adding a header using markdown style.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Create a task list
+- [ ] Complete this step
